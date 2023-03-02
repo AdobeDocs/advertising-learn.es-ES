@@ -1,36 +1,36 @@
 ---
-user-guide-title: Tutorials publicitarios de Adobe
-user-guide-description: Una colección de vídeos y tutoriales para Adobe Advertising.
-breadcrumb-title: Tutorials publicitarios
-solution: Advertising, Advertising Cloud
-source-git-commit: d30a1b72f953f0357d5f2d5c170153226369e519
+user-guide-title: Tutoriales de Adobe Advertising
+user-guide-description: Una colección de vídeos y tutoriales de Adobe Advertising.
+breadcrumb-title: Tutoriales de Advertising
+solution: Advertising
+source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 8%
+ht-degree: 15%
 
 ---
 
 
-# Tutorials publicitarios de Adobe {#tutorials}
+# Tutoriales de Adobe Advertising  {#tutorials}
 
 + [Información general](overview.md)
 + DSP {#dsp}
-   + [Introducción a la DSP publicitaria](/help/dsp/intro.md)
-   + [Estructura de la cuenta e interfaz de usuario](/help/dsp/ui.md)
+   + [DSP Introducción a Advertising](/help/dsp/intro.md)
+   + [Estructura de cuenta e interfaz de usuario](/help/dsp/ui.md)
    + [Cómo crear un paquete](/help/dsp/package-create.md)
-   + [Cómo crear una colocación de visualización estándar](/help/dsp/placement-create.md)
-   + [Editar ubicaciones mediante herramientas de edición masiva](/help/dsp/bulk-edit-placement-tools.md)
-   + [Cómo cargar de forma masiva etiquetas de publicidad de terceros](/help/dsp/bulk-upload-third-party-ad-tags.md)
+   + [Cómo crear una ubicación de visualización estándar](/help/dsp/placement-create.md)
+   + [Cómo editar ubicaciones mediante las herramientas de edición masiva](/help/dsp/bulk-edit-placement-tools.md)
+   + [Carga masiva de etiquetas de publicidad de terceros](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
    + [Introducción a [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
-   + [Creación de informes de entrada al sitio de publicidad de Adobe](/help/integrations/analytics/analytics-site-entry-a4adc.md)
+   + [Crear informes de entrada al sitio de publicidad de Adobe](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [Crear [!DNL Analytics] Segmentos para activación e informes](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [Introducción a [!DNL Analysis Workspace] para los datos publicitarios del Adobe de informes](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [Uso [!DNL Marketing Channels] para informes publicitarios de Adobe](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Crear [!DNL Analytics] Perfiles para la activación y el sistema de informes de publicidad de Adobe](/help/integrations/analytics/analytics-profiles-a4adc.md)
-   + [Creación de un análisis de campaña previo al lanzamiento con Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
-   + [Creación de paneles publicitarios de Adobe con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Crear [!DNL Analytics] Métricas personalizadas con datos publicitarios de Adobe](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Introducción a [!DNL Analysis Workspace] para generar informes de datos publicitarios de Adobe](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [Uso de [!DNL Marketing Channels] para informes de publicidad de Adobe](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [Crear [!DNL Analytics] Perfiles para informes y activación de publicidad de Adobe](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Creación de un análisis de Campaign previo al inicio con Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
+   + [Creación de paneles de publicidad de Adobe con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
+   + [Crear [!DNL Analytics] Métricas personalizadas con datos de publicidad de Adobe](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
