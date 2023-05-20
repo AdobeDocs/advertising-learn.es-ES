@@ -5,8 +5,8 @@ source-wordcount: '22'
 ht-degree: 0%
 
 ---
-# Tutorials de la publicidad de Adobe DSP
+# Tutorials de Adobe DSP Advertising
 
-Esta es la carpeta para páginas de vídeo sobre DSP.
+DSP Esta es la carpeta para las páginas de vídeo acerca de la.
 
-**Nota: Esta página no se publica en la documentación de cara al cliente.**
+**Nota: Esta página no se publica en la documentación de cliente.**

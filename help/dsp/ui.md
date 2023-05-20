@@ -1,6 +1,6 @@
 ---
-title: Estructura de la cuenta de DSP e interfaz de usuario
-description: Conozca la estructura DSP cuenta y la interfaz de usuario.
+title: DSP Estructura de cuenta de e interfaz de usuario
+description: DSP Conozca la estructura de cuentas y la interfaz de usuario de la.
 exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
 source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
 workflow-type: tm+mt
@@ -9,8 +9,8 @@ ht-degree: 0%
 
 ---
 
-# Estructura de la cuenta e interfaz de usuario
+# Estructura de cuenta e interfaz de usuario
 
-Conozca cómo están estructuradas sus cuentas de anuncios de DSP, cómo usar las vistas de administración de campañas y descripciones de las funciones de gestión de público, inventario, informes, configuración y recursos.
+DSP Conozca cómo están estructuradas sus cuentas de publicidad de, cómo utilizar las vistas de administración de campañas y las descripciones de las funciones de administración de audiencias, inventario, creación de informes, configuración y recursos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339206)
