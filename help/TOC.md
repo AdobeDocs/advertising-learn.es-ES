@@ -2,8 +2,9 @@
 user-guide-title: Tutoriales de Adobe Advertising
 user-guide-description: Una colección de vídeos y tutoriales de Adobe Advertising.
 breadcrumb-title: Tutoriales de Advertising
-solution: Advertising
-source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
+role: User
+level: Beginner, Intermediate
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 16%
@@ -23,14 +24,14 @@ ht-degree: 16%
    + [Carga masiva de etiquetas de publicidad de terceros](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
    + [Introducción a [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
-   + [Crear informes de entrada al sitio de publicidad de Adobe](/help/integrations/analytics/analytics-site-entry-a4adc.md)
+   + [Crear informes de entrada al sitio de Adobe Advertising](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [Crear [!DNL Analytics] Segmentos para activación e informes](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Introducción a [!DNL Analysis Workspace] para generar informes de datos publicitarios de Adobe](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [Uso de [!DNL Marketing Channels] para informes de publicidad de Adobe](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [Uso de [!DNL Marketing Channels] para informes de Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
    + [Crear [!DNL Analytics] Perfiles para informes y activación de publicidad de Adobe](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Creación de un análisis de Campaign previo al inicio con Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Creación de paneles de publicidad de Adobe con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Crear [!DNL Analytics] Métricas personalizadas con datos de publicidad de Adobe](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Crear [!DNL Analytics] Métricas personalizadas con datos de Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)

@@ -1,15 +1,18 @@
 ---
-title: Sistema de informes con canales de marketing publicitario de Adobe
-description: Descubra cómo funcionan los datos de entrada de pulsaciones y vistas de la publicidad de Adobe con Adobe Analytics [!DNL Marketing Channels].
+title: Sistema de informes con canales de marketing de Adobe Advertising
+description: Descubra cómo funcionan los datos de entrada de pulsaciones y vistas de Adobe Advertising con Adobe Analytics [!DNL Marketing Channels].
+level: Intermediate, Experienced
+topic: Integrations
+feature: Integration with Adobe Analytics
 exl-id: 9fadf819-17bf-47cc-b763-1375e426552f
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# Sistema de informes con canales de marketing publicitario de Adobe
+# Sistema de informes con canales de marketing de Adobe Advertising
 
 *Anunciantes con[!DNL Adobe Analytics for Adobe Advertising]*
 
