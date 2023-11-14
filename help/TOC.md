@@ -12,7 +12,7 @@ ht-degree: 16%
 ---
 
 
-# Tutoriales de Adobe Advertising  {#tutorials}
+# Tutoriales de Adobe Advertising {#tutorials}
 
 + [Información general](overview.md)
 + DSP {#dsp}
@@ -26,11 +26,11 @@ ht-degree: 16%
    + [Introducción a [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
    + [Crear informes de entrada al sitio de Adobe Advertising](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [Crear [!DNL Analytics] Segmentos para activación e informes](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [Introducción a [!DNL Analysis Workspace] para generar informes de datos publicitarios de Adobe](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [Introducción a [!DNL Analysis Workspace] para informar datos de Adobe Advertising](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [Uso de [!DNL Marketing Channels] para informes de Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Crear [!DNL Analytics] Perfiles para informes y activación de publicidad de Adobe](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Crear [!DNL Analytics] Perfiles para informes y activación de Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Creación de un análisis de Campaign previo al inicio con Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
-   + [Creación de paneles de publicidad de Adobe con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
+   + [Creación de paneles de Adobe Advertising con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Crear [!DNL Analytics] Métricas personalizadas con datos de Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
