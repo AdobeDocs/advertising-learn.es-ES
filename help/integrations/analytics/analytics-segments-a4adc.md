@@ -1,5 +1,5 @@
 ---
-title: Crear [!DNL Analytics] Segmentos para activación e informes
+title: Crear  [!DNL Analytics] segmentos para activación y generación de informes
 description: Aprenda a utilizar las dimensiones de Adobe Advertising para crear segmentos y conseguir una creación de informes y un análisis más precisos.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Crear [!DNL Analytics] Segmentos para activación e informes
+# Crear [!DNL Analytics] segmentos para la activación y la creación de informes
 
 *Anunciantes con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Aprenda a utilizar las dimensiones de publicidad de Adobe para crear segmentos y conseguir una creación de informes y un análisis más precisos.
+Aprenda a utilizar las dimensiones de Adobe Advertising para crear segmentos y conseguir una creación de informes y un análisis más precisos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33916)

@@ -1,5 +1,5 @@
 ---
-title: Creación de paneles de publicidad de Adobe con Adobe Analytics
+title: Creación de paneles de Adobe Advertising con Adobe Analytics
 description: Conozca las técnicas para crear un tablero de Adobe Advertising para la monitorización de campañas en directo
 level: Intermediate, Experienced
 topic: Integrations

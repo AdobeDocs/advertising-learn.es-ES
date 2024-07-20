@@ -1,5 +1,5 @@
 ---
-title: Introducción a [!DNL Adobe Analytics for Adobe Advertising]
+title: Introducción a  [!DNL Adobe Analytics for Adobe Advertising]
 description: Comprenda las ventajas de la integración entre Adobe Advertising y Adobe Analytics, incluidos los problemas de los clientes que resuelve.
 level: Beginner
 topic: Integrations

@@ -1,6 +1,6 @@
 ---
-title: Crear [!DNL Analytics] Métricas personalizadas con datos de Adobe Advertising
-description: Conozca las métricas personalizadas útiles que se pueden crear al usar datos de publicidad de Adobe en Adobe Analytics.
+title: Crear  [!DNL Analytics] métricas personalizadas con datos de Adobe Advertising
+description: Conozca las métricas personalizadas útiles que se pueden crear al usar datos de Adobe Advertising en Adobe Analytics.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Crear [!DNL Analytics] Métricas personalizadas con datos de Adobe Advertising
+# Crear [!DNL Analytics] métricas personalizadas con datos de Adobe Advertising
 
 *Anunciantes con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Conozca las métricas personalizadas útiles que se pueden crear al usar datos de publicidad de Adobe en Adobe Analytics.
+Conozca las métricas personalizadas útiles que se pueden crear al usar datos de Adobe Advertising en Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33919)

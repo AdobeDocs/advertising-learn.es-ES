@@ -1,6 +1,6 @@
 ---
-title: Crear informes de entrada al sitio de publicidad de Adobe
-description: Aprenda a crear un informe de entrada al sitio de publicidad de Adobe para monitorizar las influencias del día de la semana, la hora del día, el explorador y la zona geográfica.
+title: Crear informes de entrada al sitio de Adobe Advertising
+description: Obtenga información sobre cómo crear un informe de entrada al sitio de Adobe Advertising para monitorizar las influencias del día de la semana, la hora del día, el explorador y la zona geográfica.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Crear informes de entrada al sitio de publicidad de Adobe
+# Crear informes de entrada al sitio de Adobe Advertising
 
 *Anunciantes con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Aprenda a crear un informe de entrada al sitio de publicidad de Adobe para monitorizar las influencias del día de la semana, la hora del día, el explorador y la zona geográfica.
+Obtenga información sobre cómo crear un informe de entrada al sitio de Adobe Advertising para monitorizar las influencias del día de la semana, la hora del día, el explorador y la zona geográfica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33921)

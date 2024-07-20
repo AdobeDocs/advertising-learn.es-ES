@@ -16,6 +16,6 @@ ht-degree: 0%
 
 *Anunciantes con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Descubra cómo funcionan los datos de entrada de pulsaciones y vistas de la publicidad de Adobe con Adobe Analytics [!DNL Marketing Channels].
+Descubra cómo funcionan los datos de entrada de pulsaciones y vistas de Adobe Advertising con Adobe Analytics [!DNL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)
