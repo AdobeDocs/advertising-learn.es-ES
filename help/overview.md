@@ -14,7 +14,7 @@ ht-degree: 25%
 
 # Tutoriales de Adobe Advertising
 
-Estos tutoriales en vídeo, junto con la [documentación de Adobe Advertising](https://experienceleague.adobe.com/en/docs/advertising), le ayudarán a usar el Adobe Advertising para obtener información del cliente más rápido que nunca.
+Estos tutoriales en vídeo, junto con la [documentación de Adobe Advertising](https://experienceleague.adobe.com/es/docs/advertising), le ayudarán a usar el Adobe Advertising para obtener información del cliente más rápido que nunca.
 
 Hay vídeos disponibles para:
 
