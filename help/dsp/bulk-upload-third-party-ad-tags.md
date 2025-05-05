@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo cargar varias etiquetas de publicidad de terceros a la vez.
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342171?captions=spa)

@@ -14,5 +14,5 @@ ht-degree: 0%
 
 DSP Obtenga información sobre cómo editar la configuración de varias ubicaciones a la vez en la.
 
->[!VIDEO](https://video.tv.adobe.com/v/339205)
+>[!VIDEO](https://video.tv.adobe.com/v/3412408?captions=spa)
 

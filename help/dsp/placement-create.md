@@ -14,4 +14,4 @@ ht-degree: 0%
 
 DSP Obtenga información sobre cómo crear una ubicación de visualización estándar para una campaña de.
 
->[!VIDEO](https://video.tv.adobe.com/v/340454)
+>[!VIDEO](https://video.tv.adobe.com/v/344998?captions=spa)

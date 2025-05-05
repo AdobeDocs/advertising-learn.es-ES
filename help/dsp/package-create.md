@@ -14,4 +14,4 @@ ht-degree: 0%
 
 DSP Obtenga información sobre cómo crear un paquete para una campaña de.
 
->[!VIDEO](https://video.tv.adobe.com/v/339257)
+>[!VIDEO](https://video.tv.adobe.com/v/3412426?captions=spa)
