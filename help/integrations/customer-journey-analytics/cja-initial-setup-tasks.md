@@ -29,7 +29,7 @@ Una vez que haya completado estos pasos y proporcionado la vista de datos a su e
 
 ## Cree una vista de datos en Analysis Workspace con las métricas que desea exportar
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476759?captions=spa&learn=on)
 
 >[!MORELIKETHIS]
 >
