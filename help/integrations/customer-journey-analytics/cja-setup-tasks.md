@@ -6,20 +6,20 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: 387ce23256fd76e8835a33ead30be6e1d75799cd
+source-git-commit: 7f71e18cb639642e6c6b7c8a97c612855e3efdef
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
 
 # Configurar tareas para intercambiar datos entre Customer Journey Analytics y Adobe Advertising
 
-## Tareas de configuración iniciales para eventos de conversión de Customer Journey Analytics a Adobe Advertising
+## Tareas de configuración iniciales para enviar eventos de conversión de Customer Journey Analytics a Adobe Advertising
 
 Obtenga información acerca de los pasos iniciales necesarios para enviar eventos de conversión de Customer Journey Analytics a Adobe Advertising, donde puede incluirlos más adelante en las metas y objetivos de optimización.
 
-Una vez que haya completado estos pasos y proporcionado la vista de datos a su equipo de cuenta de Adobe, puede completar los pasos adicionales para configurar la integración. Para obtener más información sobre los pasos adicionales, lea la [documentación completa](https://experienceleague.adobe.com/es/docs/advertising/integrations/customer-journey-analytics/overview).
+Una vez que haya completado estos pasos y proporcionado la vista de datos a su equipo de cuenta de Adobe, puede completar los pasos adicionales para configurar la integración. Para obtener más información sobre los pasos adicionales, lea la [documentación completa](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
 
 ### Información general
 
@@ -35,7 +35,7 @@ Una vez que haya completado estos pasos y proporcionado la vista de datos a su e
 
 >[!MORELIKETHIS]
 >
->* [Información general sobre la integración entre Adobe Advertising y Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Información general sobre la integración entre Adobe Advertising y Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Tareas de configuración iniciales para ver los datos de la campaña de Adobe Advertising en Customer Journey Analytics
 
