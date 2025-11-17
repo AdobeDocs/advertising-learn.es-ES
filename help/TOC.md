@@ -33,7 +33,7 @@ ht-degree: 15%
    + [Creación de un análisis de Campaign previo al inicio con Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Creación de paneles de Adobe Advertising con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Crear  [!DNL Analytics] métricas personalizadas con datos de Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ [!DNL Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
++ [[!DNL Customer Journey Analytics]](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
