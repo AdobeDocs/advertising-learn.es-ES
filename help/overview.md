@@ -5,16 +5,16 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: 1d3afe486c0b6227f95d2193152e7be310626d22
+source-git-commit: 202fc9fe52e03eab7931582f06a1847e8beb1d19
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 25%
+source-wordcount: '64'
+ht-degree: 23%
 
 ---
 
 # Tutoriales de Adobe Advertising
 
-Estos tutoriales en vídeo, junto con la [documentación de Adobe Advertising](https://experienceleague.adobe.com/es/docs/advertising), le ayudarán a usar el Adobe Advertising para obtener información del cliente más rápido que nunca.
+Estos tutoriales en vídeo, junto con la [documentación de Adobe Advertising](https://experienceleague.adobe.com/en/docs/advertising), le ayudarán a usar Adobe Advertising para conocer las perspectivas de los clientes más rápido que nunca.
 
 Hay vídeos disponibles para:
 
