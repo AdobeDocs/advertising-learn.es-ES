@@ -5,11 +5,11 @@ level: Beginner, Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
-hidefromtoc: true
-source-git-commit: 0673141e34adf4634c4af068375137573b7f2598
+exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
+source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Una vez que haya completado estos pasos y proporcionado la vista de datos a su e
 
 ### Información general
 
->[!VIDEO](https://video.tv.adobe.com/v/3476826?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
 ### Paso 1: Configurar una cuenta de ubicación en Customer Journey Analytics
 
@@ -35,7 +35,7 @@ Una vez que haya completado estos pasos y proporcionado la vista de datos a su e
 
 >[!MORELIKETHIS]
 >
->* [Información general sobre la integración entre Adobe Advertising y Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Información general sobre la integración entre Adobe Advertising y Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Pasos para ver los datos de la campaña de Adobe Advertising en Customer Journey Analytics
 
@@ -53,8 +53,8 @@ Una vez que haya completado estos pasos y proporcionado la vista de datos a su e
 
 ### Paso 3: Configuración de la persistencia y campos derivados para dimensiones de Adobe Advertising
 
->[!VIDEO](https://video.tv.adobe.com/v/3476935?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [Documentación escrita](https://experienceleague.adobe.com/es/docs/advertising/integrations/customer-journey-analytics/overview).
+>* [Documentación escrita](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
