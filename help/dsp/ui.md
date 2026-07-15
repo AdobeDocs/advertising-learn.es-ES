@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Comprenda cómo están estructuradas las cuentas de publicidad de DSP, cómo utilizar las vistas de administración de campañas, e información sobre la administración de audiencias, la administración de inventario, los informes, la configuración y las tarifas administrativas, y el seguimiento de las funciones de recursos.
 
->[!VIDEO](https://video.tv.adobe.com/v/339206)
+>[!VIDEO](https://video.tv.adobe.com/v/3412414?captions=spa)

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Obtenga información sobre Advertising DSP, su función en Adobe Experience Cloud y cómo las integraciones con Adobe Analytics y otros servicios pueden beneficiar a sus campañas de medios.
 
->[!VIDEO](https://video.tv.adobe.com/v/339200)
+>[!VIDEO](https://video.tv.adobe.com/v/3412420?captions=spa)
