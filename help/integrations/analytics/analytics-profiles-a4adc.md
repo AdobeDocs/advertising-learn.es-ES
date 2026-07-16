@@ -1,5 +1,5 @@
 ---
-title: Crear  [!DNL Analytics] perfiles para la activación y generación de informes de Adobe Advertising
+title: Crear  [!DNL Analytics] perfiles para informes y activación de Adobe Advertising
 description: Aprenda a utilizar Adobe Analytics para crear grupos de redireccionamiento de sitios sólidos para el remarketing de Adobe Advertising.
 level: Intermediate, Experienced
 topic: Integrations
@@ -14,9 +14,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 49
+source-wordcount: 48
 ht-degree: 0%
 
 ---
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 *Anunciantes con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Aprenda a utilizar Adobe Analytics para crear grupos de redireccionamiento de sitios sólidos para el remarketing de Adobe Advertising.
+Aprenda a utilizar Adobe Analytics para crear grupos de redireccionamiento de sitios para el remarketing de Adobe Advertising.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33503)

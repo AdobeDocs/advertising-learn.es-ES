@@ -17,16 +17,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
-ht-degree: 23%
+source-wordcount: 61
+ht-degree: 14%
 
 ---
 
 # Tutoriales de Adobe Advertising
 
-Estos tutoriales en vídeo, junto con la [documentación de Adobe Advertising](https://experienceleague.adobe.com/es/docs/advertising), le ayudarán a usar Adobe Advertising para conocer las perspectivas de los clientes más rápido que nunca.
+En estos tutoriales en vídeo, junto con la [documentación de Adobe Advertising](https://experienceleague.adobe.com/es/docs/advertising), se explica cómo usar Adobe Advertising para obtener perspectivas de los clientes más rápidas.
 
 Hay vídeos disponibles para:
 
