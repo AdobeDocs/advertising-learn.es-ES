@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Aprenda a utilizar Adobe Analytics como preparación para lanzar una campaña de medios de pago de Adobe Advertising.
 
->[!VIDEO](https://video.tv.adobe.com/v/33501)
+>[!VIDEO](https://video.tv.adobe.com/v/3506451?captions=spa)

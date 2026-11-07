@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Conozca las técnicas para crear un tablero de Adobe Advertising para la monitorización de campañas en directo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33922)
+>[!VIDEO](https://video.tv.adobe.com/v/3506505?captions=spa)
