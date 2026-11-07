@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Comprenda cómo los datos de entrada de pulsaciones y vistas de Adobe Advertising se integran con Adobe Analytics [!DNL Marketing Channels].
 
->[!VIDEO](https://video.tv.adobe.com/v/33502)
+>[!VIDEO](https://video.tv.adobe.com/v/3506643?captions=spa)

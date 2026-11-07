@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Aprenda a utilizar las dimensiones de Adobe Advertising para crear segmentos y mejorar los informes y análisis.
 
->[!VIDEO](https://video.tv.adobe.com/v/33916)
+>[!VIDEO](https://video.tv.adobe.com/v/3506460?captions=spa)

@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear un informe de entrada al sitio de Adobe Advertising para monitorizar las influencias del día de la semana, la hora del día, el explorador y la zona geográfica.
 
->[!VIDEO](https://video.tv.adobe.com/v/33921)
+>[!VIDEO](https://video.tv.adobe.com/v/3506578?captions=spa)
